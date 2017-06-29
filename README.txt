@@ -13,4 +13,4 @@ In order for this program to be able to communicate with the M4 ATX PSU over the
  * pick 'libusb-win32' under driver
  * click 'Replace Driver'
 
---To be able to read all sensor values from the motherboard, this application need to run as Administrator.--
+To be able to read all sensor values from the motherboard, this application need to run as Administrator.
